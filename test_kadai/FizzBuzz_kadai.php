@@ -46,6 +46,8 @@ private function caseMessage($i){
     echo $i;
   }
   echo PHP_EOL;
+  // echo "\n";
+  // print_r('<br>');
 }
 }
 
